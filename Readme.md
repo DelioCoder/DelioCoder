@@ -17,6 +17,6 @@ You can find more about me in my website: https://programminggeek02.github.io/My
 
 Contact:
 
-[![](https://img.shields.io/badge/-Linkedin-0077B5?logo=linkedin&logoColor=white&style=flat)]()
+[![](https://img.shields.io/badge/-Linkedin-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/david-saavedra-1b395b203/)
 
 
