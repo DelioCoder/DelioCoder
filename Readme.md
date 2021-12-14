@@ -1,7 +1,7 @@
 # Hello Everyone 🖐🤖🖐!
 Let me introduce you my person, My name is Elio David and I'm (Almost 😅) Software developer, but I specialize better in web development.
 
-- 👨‍💻 Currently, I'm studying the career of software development at SENATI.
+- 👨‍💻 Currently, I finished the career of software development at SENATI.
 - 🔨 Web developer (UI/UX Design & server/apis developer) since 2019.
 - 🎓 Also, I'm studying english at ICPNA (Intermediate 12) 🙎🏻‍♂️.
 - 📚 Lover of world history, Peruvian literature and science in general ❤️.
