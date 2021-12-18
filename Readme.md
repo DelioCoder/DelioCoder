@@ -1,5 +1,5 @@
 # Hello Everyone 🖐🤖🖐!
-Let me introduce you my person, My name is Elio David and I'm (Almost 😅) Software developer, but I specialize better in web development.
+Let me introduce you my person, My name is Elio David and I'm Software developer, but I specialize better in web development.
 
 - 👨‍💻 Currently, I finished the career of software development at SENATI.
 - 🔨 Web developer (UI/UX Design & server/apis developer) since 2019.
