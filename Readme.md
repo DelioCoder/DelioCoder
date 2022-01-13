@@ -9,13 +9,13 @@ Let me introduce you my person, My name is Elio David and I'm Software developer
 You can find more about me in my website: https://programminggeek02.github.io/My-Portfolio-React/
 
 #
- 
+<!-- 
 <div align="center">
   <a href="https://github.com/ProgrammingGeek02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgrammingGeek02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingGeek02&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+-->
 #
 
 [![](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat)]()
