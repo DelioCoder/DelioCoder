@@ -10,13 +10,13 @@ Let me introduce you my person, My name is Elio David and I'm Software developer
 You can find more about me in my website: https://programminggeek02.github.io/My-Portfolio-React/
 
 #
-<!-- 
+
 <div align="center">
   <a href="https://github.com/ProgrammingGeek02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgrammingGeek02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingGeek02&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DelioCoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelioCoder&layout=compact&langs_count=7&theme=dark"/>
 </div>
--->
+
 #
 
 [![](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat)]()
@@ -28,6 +28,5 @@ You can find more about me in my website: https://programminggeek02.github.io/My
 
 Contact:
 
-[![](https://img.shields.io/badge/-Linkedin-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/david-saavedra-1b395b203/)
-
-
+[![](https://img.shields.io/badge/-Linkedin-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/david-saavedra-5a3406262/)
+[![](https://img.shields.io/badge/-Youtube-red?logo=youtube&logoColor=white&style=flat)](https://youtube.com/@deliocoder8822?si=5l8pD6JYZy8WUH1i)
