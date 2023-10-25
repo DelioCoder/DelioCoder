@@ -12,7 +12,7 @@ You can find more about me in my website: https://deliocoder.github.io/My-Portfo
 #
 
 <div align="center">
-  <a href="https://github.com/ProgrammingGeek02">
+  <a href="https://github.com/DelioCoder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DelioCoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DelioCoder&layout=compact&langs_count=7&theme=dark"/>
 </div>
